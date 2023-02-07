@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TP1-GIF-3101</string>
+    <string name="fist_name">Étienne</string>
+    <string name="last_name">Cloutier</string>
+    <string name="site_web_wv">Site Web (wv)</string>
+    <string name="mon_profil">Mon Profil</string>
+    <string name="site_web_ext">Site Web (ext)</string>
+    <string name="ulaval">ULaval</string>
+    <string name="close">Fermer</string>
+    <string name="default_text">Default Text</string>
+    <string name="firstNameLbl">Prénom :</string>
+    <string name="lastNameLbl">Nom :</string>
+    <string name="BirthDateLbl">Date de Naissance :</string>
+    <string name="idulLbl">IDUL :</string>
+</resources>
